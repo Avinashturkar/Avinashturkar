@@ -5,7 +5,7 @@
 
 # 👋 Hi, I’m Avinash Turkar
 
-I’m a data enthusiast passionate about turning raw data into actionable insights. At Amazon, I work with Excel and Pivot Tables to track performance, analyze metrics, and create reports that have improved resolution rates by 15% and team performance by 5–10%.
+I love digging into data to understand how things work and how they can work better. At Amazon, I work with Excel and Pivot Tables to track performance, analyze metrics, and create reports that have improved resolution rates by 15% and team performance by 5–10%.
 
 Outside of work, I enjoy solving real-world data problems using SQL, Power BI, and Python.
 
@@ -20,10 +20,13 @@ Outside of work, I enjoy solving real-world data problems using SQL, Power BI, a
 
 ## 📌 Project Highlights
 
-- 📊 **Enterprise Insights Dashboard**: Power BI dashboard across Finance, Sales, Marketing, and Executive layers — revealed 353% revenue growth trends  
-- 🧮 **SQL Ad-Hoc Analytics**: Reusable queries to answer key financial questions  
-- 📈 **Profit & Loss Tracker**: Market-level P&L analysis using Power Query and Excel  
-- 🏨 **Python Booking Analysis**: Found ~21% higher booking rates on weekends
+⦁ Built a Power BI dashboard (Finance, Sales, Marketing, Exec views) to explore 353% revenue growth.
+
+⦁ Created reusable SQL queries to answer financial questions quickly.
+
+⦁ Tracked P&L trends by market using Power Query and Pivot Tables.
+
+⦁ Analyzed hotel booking data in Python—weekends were ~21% busier than weekdays.
 
 ---
 
