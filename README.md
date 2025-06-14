@@ -32,17 +32,9 @@ Outside of work, I enjoy solving real-world data problems using SQL, Power BI, a
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/avinashturkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:avinashturkar922@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" alt="Gmail"/>
-  </a>
-  <a href="https://codebasics.io/portfolio/Avinash-Turkar" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Portfolio"/>
-  </a>
-</p>
+| [![LinkedIn](https://img.icons8.com/color/28/linkedin.png)](https://www.linkedin.com/in/avinashturkar) | [![Gmail](https://img.icons8.com/color/28/gmail--v1.png)](mailto:avinashturkar922@gmail.com) | [![Website](https://img.icons8.com/fluency/28/domain.png)](https://codebasics.io/portfolio/Avinash-Turkar) |
+|:--:|:--:|:--:|
+| [**LinkedIn**](https://www.linkedin.com/in/avinashturkar) | **avinashturkar922@gmail.com** | [**Portfolio**](https://codebasics.io/portfolio/Avinash-Turkar) |
 
 ---
 
